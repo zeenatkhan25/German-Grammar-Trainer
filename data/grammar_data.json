@@ -1,0 +1,17 @@
+[
+  {"question": "What is the article for 'Tisch' (table)?", "answer": "der"},
+  {"question": "What is the article for 'Frau' (woman)?", "answer": "die"},
+  {"question": "What is the article for 'Kind' (child)?", "answer": "das"},
+  {"question": "What is the article for 'Mann' (man)?", "answer": "der"},
+  {"question": "What is the article for 'Stadt' (city)?", "answer": "die"},
+  {"question": "What is the article for 'Buch' (book)?", "answer": "das"},
+  {"question": "How do you say 'I am' in German?", "answer": "ich bin"},
+  {"question": "How do you say 'You are' (informal) in German?", "answer": "du bist"},
+  {"question": "How do you say 'We are' in German?", "answer": "wir sind"},
+  {"question": "What is the plural of 'das Kind'?", "answer": "die Kinder"},
+  {"question": "What is the plural of 'der Mann'?", "answer": "die Männer"},
+  {"question": "How do you say 'I have' in German?", "answer": "ich habe"},
+  {"question": "How do you say 'Thank you' in German?", "answer": "danke"},
+  {"question": "How do you say 'Please' in German?", "answer": "bitte"},
+  {"question": "What is the article for 'Haus' (house)?", "answer": "das"}
+]
